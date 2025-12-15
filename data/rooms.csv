@@ -1,0 +1,13 @@
+room_id,hotel_id,room_type,max_guests
+101,1,Deluxe,2
+102,1,Suite,4
+201,2,Standard,2
+301,3,Sea View,2
+302,3,Family,4
+401,4,Business,2
+501,5,Executive,2
+601,6,Harbor View,2
+701,7,Standard,2
+801,8,Villa,4
+901,9,Corporate,2
+1001,10,River View,2
